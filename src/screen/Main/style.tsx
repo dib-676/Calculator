@@ -10,6 +10,7 @@ const style = StyleSheet.create({
   upperContainer: {
     width: vw(360),
     height: vh(250),
+    borderWidth: 2,
   },
 });
 export default style;

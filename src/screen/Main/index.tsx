@@ -3,7 +3,9 @@ import style from './style';
 const Calculator = () => {
   return <SafeAreaView style={style.mainContainer}>
     <View style={style.upperContainer}>
-      
+      <View>
+        
+      </View>
     </View>
    
   </SafeAreaView>;
